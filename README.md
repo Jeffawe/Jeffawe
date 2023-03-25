@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Jeffawe
-- 👀 I'm a Game Developer and Web-based Programmer 
-- 👀 I’m interested in Machine Learning and Artificial Intelligence and its capabilities in the game development industry
-- 🌱 I’m currently learning Python.
-- 📫 Reach me through my email at ozoekweawagu@gmail.com.
-
-<!---
-Jeffawe/Jeffawe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    Hi, I'm Jeffery Ozoekwe-Awagu, a versatile Game and Web Developer with over 2 years of experience in JavaScript, HTML, CSS, React, Node, C#, and SQL. I'm passionate about creating engaging games using Unity and Unreal Engine, and I'm currently expanding my skills learning Python and C++. I'm also an AI and ML enthusiast, exploring their potential for the gaming industry. Let's connect and collaborate!
