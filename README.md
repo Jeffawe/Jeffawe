@@ -3,8 +3,6 @@
 
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 I'm a passionate Game and Fullstack Web Developer with over 3 years of experience in JavaScript, HTML, CSS, React, Node, SQL and Python as well as C# and C++. I'm passionate about creating engaging games using Unity and Unreal Engine. I'm also an AI and ML enthusiast, exploring their potential for the gaming industry. Let's connect and collaborate!
