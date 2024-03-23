@@ -7,7 +7,7 @@
 
 <br>
 
-I'm a passionate Game and Fullstack Web Developer with over 2 years of experience in JavaScript, HTML, CSS, React, Node, C#, and SQL. I'm passionate about creating engaging games using Unity and Unreal Engine, and I'm currently expanding my skills learning Python and C++. I'm also an AI and ML enthusiast, exploring their potential for the gaming industry. Let's connect and collaborate!
+I'm a passionate Game and Fullstack Web Developer with over 3 years of experience in JavaScript, HTML, CSS, React, Node, SQL and Python as well as C# and C++. I'm passionate about creating engaging games using Unity and Unreal Engine. I'm also an AI and ML enthusiast, exploring their potential for the gaming industry. Let's connect and collaborate!
 - Personal website [link.](https://jeffery-oa.vercel.app)
 - Contact me via my [email.](mailto:ozoekweawagu@gmail.com)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume.](https://docs.google.com/document/d/1T2NTzUUpIvl4uYU_Jm7UwO4CjwtJ33WbbbtslTcT4Rc/edit?usp=sharing)
