@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Jeffery Ozoekwe-Awagu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src = "https://cdn.pixabay.com/animation/2022/07/31/06/00/06-00-00-61_512.gif" width = 50px></picture> **About me**
 
 <br>
 
