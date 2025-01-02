@@ -5,8 +5,8 @@
 
 <br>
 
-  Experienced software engineer and data scientist, with a passion for game development. Leveraging a diverse skillset that includes proficiency in C#, C++, Unity, Unreal, and graphics libraries like SDL, to create innovative interactive experiences.
-This GitHub repository showcases a range of personal and academic projects, from building custom game engines to exploring the application of machine learning techniques in game design. Feel free to explore, fork, and contribute to any of the projects that interests you.
+  Software engineer and data scientist, with a passion for graphics. Leveraging a diverse skillset with proficiency in C#, C++, Unity, Unreal, and graphics libraries like SDL as well as Javascript and Python as well as NOdeJS, Express JS, and React amongst others., to create innovative interactive experiences.
+This GitHub repository showcases a range of personal and academic projects, from building custom game engines to exploring the application of machine learning techniques in game design. Feel free to explore, fork, and contribute to any projects that interest you.
 I'm always eager to learn and collaborate, so please don't hesitate to reach out if you have any questions or would like to discuss potential opportunities.
 - Personal website [link.](https://www.jeffawe.com)
 - Contact me via my [email.](mailto:ozoekweawagu@gmail.com)
