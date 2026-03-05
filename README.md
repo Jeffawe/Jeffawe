@@ -5,7 +5,7 @@
 
 <br>
 
-  Software engineer and data scientist, with a passion for graphics. Leveraging a diverse skillset with proficiency in JavaScript, Python, TypeScript, C#, C++, Unity, Unreal, and frameworks and libraries like NodeJS, Express JS, and React, to create innovative interactive experiences.
+  Software engineer and data scientist, with a passion for machine learning. Leveraging a diverse skillset with proficiency in JavaScript, Python, TypeScript, C#, C++, Unity, Unreal, and frameworks and libraries like NodeJS, Express JS, and React, to create innovative solutions.
 This GitHub repository showcases a range of personal and academic projects, from building custom game engines to exploring the application of machine learning techniques in software applications. Feel free to explore, fork, and contribute to any projects that interest you.
 I'm always eager to learn and collaborate, so please don't hesitate to reach out if you have any questions or would like to discuss potential opportunities.
 - Personal website [link.](https://www.jeffawe.com)
